@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Angelmmiguel/PReview-test/issues"
   },
-  "homepage": "https://github.com/Angelmmiguel/PReview-test#readme"
+  "homepage": "https://github.com/Angelmmiguel/PReview-test#readme",
+  "dependencies": {
+    "handlebars": "^4.0.10",
+    "hapi": "^16.2.0",
+    "hoek": "^4.1.1",
+    "inert": "^4.2.0",
+    "vision": "^4.1.1"
+  }
 }
